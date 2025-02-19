@@ -24,4 +24,5 @@ Welcome to the **Zomato Landing Page Clone**! This project is a visually appeali
 1. Clone the repository  
    ```bash
    git clone
+   
    https://github.com/Kalyani8-cloud/Zomato-Landing-Page.git
