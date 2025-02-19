@@ -16,11 +16,12 @@ Welcome to the **Zomato Landing Page Clone**! This project is a visually appeali
 ## 🛠️ Technologies Used  
 🔹 **HTML** - Structure of the page  
 🔹 **CSS** - Styling and layout  
-🔹 **JavaScript** (if included) - Interactivity  
+🔹 **JavaScript** - Interactivity  
 
 ---
 
 ## 📂 Project Setup  
 1. Clone the repository  
    ```bash
-   git clone https://github.com/Kalyani8-cloud/Zomato-Landing-Page.git
+   git clone
+   https://github.com/Kalyani8-cloud/Zomato-Landing-Page.git
