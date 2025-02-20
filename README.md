@@ -15,8 +15,7 @@ Welcome to the **Zomato Landing Page Clone**! This project is a visually appeali
 
 ## 🛠️ Technologies Used  
 🔹 **HTML** - Structure of the page  
-🔹 **CSS** - Styling and layout  
-🔹 **JavaScript** - Interactivity  
+🔹 **CSS** - Styling and layout    
 
 ---
 
